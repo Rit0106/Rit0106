@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Ritika Raj</h1>
-<h3 align="center">Frontend Developer | AI & LLM Enthusiast 🚀</h3>
+<h3 align="center"> A Passionate Frontend Developer | AI & LLM Enthusiast | Problem Solver</h3>
 
 <p align="center">
   Building impactful products through code and commits<>
