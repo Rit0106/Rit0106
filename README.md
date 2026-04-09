@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi There👋, I'm Ritika Raj</h1>
+<h3 align="center">Frontend Developer | AI & LLM Enthusiast 🚀</h3>
+
+<p align="center">
+  Building impactful products through code and commits<>
+</p>
 
 <!--
 **Rit0106/Rit0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
