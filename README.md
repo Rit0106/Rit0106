@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, Thia is Ritik Raj.</h1>
+<h1 align="center">Hi There👋, This is Ritika Raj.</h1>
 
 <h3 align="center">
  A Passionate Frontend Developer | AI/ML Enthusiast | Problem Solver
