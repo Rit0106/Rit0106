@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, This is Ritika Raj.</h1>
 
 <h3 align="center">
- A Passionate Frontend Developer | AI/ML Enthusiast | Problem Solver
+ A Passionate Software Developer | AI/ML Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
