@@ -43,9 +43,9 @@ Git, GitHub, VS Code , Canva , Figma
 ---
 
 ## 🚀 Projects  
-
-- 🔹 **LCsubmits**  
-  → Integrated a LeetCode extension that automatically syncs submissions to GitHub, showcasing consistent DSA practice and strong problem-solving skills.  
+- 🔹 **AlertDrive-AI**
+  → Developed an AI-powered Driver Drowsiness Detection System using YOLOv8, OpenCV, and Python for real-time eye-state and yawn monitoring, enabling intelligent alert generation and enhancing road safety through computer vision and machine learning.
+ 
 
 - 🔹 **Trackify**  
   → A dynamic web app to track a product’s journey via interactive maps, timelines, and detailed checkpoints.
