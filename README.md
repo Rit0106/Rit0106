@@ -12,8 +12,8 @@
 
 ## 💡 About Me  
 
-- 💻 Passionate about building modern frontend applications  
-- 🤖 Currently exploring AI , Machine Learning and Large Language Models (LLMs)  
+- 💻 Passionate about building modern Web applications  
+- 🤖 Currently exploring AI , Machine Learning , DL , Neural Network and Large Language Models (LLMs)  
 - 🧠 Strong grasp of Data Structures, Algorithms & Computer Science fundamentals including OS, DBMS ,OOPs and CN. 
 - 🚀 Love transforming ideas into real-world products which could create a big impact
 - 🌱 Continuously learning and improving  
